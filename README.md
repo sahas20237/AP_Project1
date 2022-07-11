@@ -3,4 +3,7 @@ The classic game, Snakes and Ladders, implemented using principles of OOPS and G
 
 ## Class Relationships
 All the class relationships that have been used in the following Project are being shown graphically in the UML Diagram located at
-`src/AP Project UML Diagram.png`
+`2020355_2020237_Aditya Peer_Sahas Marwah_Project/src/AP Project UML Diagram.png`
+
+## Video
+The video can ve viewed at `2020355_2020237_Aditya Peer_Sahas Marwah_Project/src/SnakeandLadderVideo.mp4`
